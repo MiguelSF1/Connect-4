@@ -1,8 +1,24 @@
-# Connect Four game for AI class project
+# Connect 4 AI
 
-Compile with javac Main.java
+The connect 4 game with a selection of different AI opponents.
 
-Run with java Main.java
+## Description
+
+
+
+## Build Instructions
+
+1. ### Compile
+```bash
+javac Main.java
+```
+
+2. ### Run
+```bash
+java Main.java
+```
+
+
 
 
 
