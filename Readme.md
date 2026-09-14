@@ -15,7 +15,7 @@ javac Main.java
 
 2. **Run**
 ```bash
-java Main.java
+java Main
 ```
 
 
